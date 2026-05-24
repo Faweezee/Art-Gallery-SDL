@@ -13,7 +13,7 @@ int main(int argc, char* argv[])
     // Texture stored on the GPU
     SDL_Surface* bg = IMG_Load("../../Users/USER/Downloads/sdl_gallery_bg1.jpg");
     SDL_Surface* frame = IMG_Load("C:/Users/USER/Downloads/sdl_frame4.1-removebg-preview.png");
-    SDL_Surface* blender_img1 = IMG_Load("");
+    SDL_Surface* blender_img1 = IMG_Load("../../Users/USER/Desktop/SCHOOL/200lvl - 2/PAU-CSC 212 - Computer Graphics (CSC)/Software-Engineering-Group-3-BLENDER-FILES/OldSchoolGarage2.png");
     SDL_Surface* blender_img2 = IMG_Load("");
     SDL_Surface* opengl = IMG_Load("C:/Users/USER/Downloads/openGL_image.jpeg");
 

@@ -132,6 +132,7 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\Users\USER\Desktop\SCHOOL\200lvl - 2\PAU-CSC 212 - Computer Graphics (CSC)\Software-Engineering-Group-3-BLENDER-FILES\OldSchoolGarage2.png" />
     <Image Include="..\..\Users\USER\Downloads\openGL_image.jpeg" />
     <Image Include="..\..\Users\USER\Downloads\sdl_frame4.1-removebg-preview.png" />
     <Image Include="..\..\Users\USER\Downloads\sdl_gallery_bg1.jpg" />
