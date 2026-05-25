@@ -11,11 +11,11 @@ int main(int argc, char* argv[])
 
     // Surface stored on the CPU
     // Texture stored on the GPU
-    SDL_Surface* bg = IMG_Load("../../Users/USER/Downloads/sdl_gallery_bg1.jpg");
-    SDL_Surface* frame = IMG_Load("C:/Users/USER/Downloads/sdl_frame4.1-removebg-preview.png");
-    SDL_Surface* blender_img1 = IMG_Load("../../Users/USER/Desktop/SCHOOL/200lvl - 2/PAU-CSC 212 - Computer Graphics (CSC)/Software-Engineering-Group-3-BLENDER-FILES/OldSchoolGarage2.png");
-    SDL_Surface* blender_img2 = IMG_Load("");
-    SDL_Surface* opengl = IMG_Load("C:/Users/USER/Downloads/openGL_image.jpeg");
+    SDL_Surface* bg = IMG_Load("C:/GLP/Art-Gallery-SDL/sdl_gallery_bg1.jpg");
+    SDL_Surface* frame = IMG_Load("C:/GLP/Art-Gallery-SDL/sdl_frame4.1-removebg-preview.png");
+    SDL_Surface* blender_img1 = IMG_Load("C:/GLP/Art-Gallery-SDL/OldSchoolGarage2.png");
+    SDL_Surface* blender_img2 = IMG_Load("C:/GLP/Art-Gallery-SDL/cozy-room.jpeg");
+    SDL_Surface* opengl = IMG_Load("C:/GLP/Art-Gallery-SDL/openGL_image.jpeg");
 
     SDL_Texture* bg_texture = SDL_CreateTextureFromSurface(renderer, bg);
     SDL_Texture* frame_texture = SDL_CreateTextureFromSurface(renderer, frame);

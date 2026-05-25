@@ -19,18 +19,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\Users\USER\Downloads\openGL_image.jpeg">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\Users\USER\Downloads\sdl_frame4.1-removebg-preview.png">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\Users\USER\Downloads\sdl_gallery_bg1.jpg">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\Users\USER\Desktop\SCHOOL\200lvl - 2\PAU-CSC 212 - Computer Graphics (CSC)\Software-Engineering-Group-3-BLENDER-FILES\OldSchoolGarage2.png">
-      <Filter>Resource Files</Filter>
-    </Image>
-  </ItemGroup>
 </Project>
